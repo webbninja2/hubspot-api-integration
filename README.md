@@ -6,7 +6,7 @@
 **Composer:**
 
 ```bash
-composer update
+composer install
 ```
 
 ## API Documentation
